@@ -1,6 +1,7 @@
 # Neflix_SQL_MOVIESANALYSIS
 
-<p>&nbsp;<img align="center" src="https://github.com/bonsoul/Neflix_SQL_MOVIESANALYSIS/issues/1#issue-2549935260"></p>
+![bx42HeGtMZuJyeRLXBFY5-320-80](https://github.com/user-attachments/assets/7ba6a921-a6ee-4092-a9bc-0529993093a4)
+
 This project entails a thorough analysis of Netflix's movies and TV shows data through SQL. The objective is to derive meaningful insights and address a range of business questions using the dataset.
 
 Objectives
