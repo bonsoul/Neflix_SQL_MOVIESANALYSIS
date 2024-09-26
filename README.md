@@ -1,6 +1,6 @@
 # Neflix_SQL_MOVIESANALYSIS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonsoul&show_icons=true&locale=en" alt="bonsoul" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/bonsoul/Neflix_SQL_MOVIESANALYSIS/issues/1#issue-2549935260"></p>
 This project entails a thorough analysis of Netflix's movies and TV shows data through SQL. The objective is to derive meaningful insights and address a range of business questions using the dataset.
 
 Objectives
